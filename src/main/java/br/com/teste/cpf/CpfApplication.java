@@ -1,4 +1,4 @@
-package br.com.valida.cpf;
+package br.com.teste.cpf;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

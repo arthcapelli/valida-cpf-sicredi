@@ -1,4 +1,4 @@
-package br.com.valida.cpf;
+package br.com.teste.cpf;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
